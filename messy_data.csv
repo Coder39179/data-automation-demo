@@ -1,2 +1,4 @@
 Client_Name,email,Order_ID,Total_Price,Date_of_Sale,SHIPPING_ADDRESS
 "ACME, Inc.","support AT acme.com",ID9876,123.55,"14-12-2025","123 Main St.; City, ST 12345"
+"Globex CORP","globex@corp.org",ID5544,"321",12/10/25,"456 Oak Ave, Stateville, CA 90001"
+"Smith & Sons","smith.sons@mail.net",ID1122,99.99,"2025-11-01","101 Pine Ln, Anytown, TX 77001"

@@ -1,0 +1,18 @@
+ Test and Upload to GitHub**
+
+1.  **Install Pandas (if you don't have it):** Open your terminal/command prompt and run:
+    ```bash
+    pip install pandas
+    ```
+2.  **Run the script:**
+    ```bash
+    python data_cleaner.py
+    ```
+3.  **Check the output:** The script should print the messy data, the cleaned data frame, and the final SQL statements.
+4.  **Commit and Push:** Push your entire project folder (the `.py`, `.csv`, and `.md` files) to a new, public GitHub repository.
+
+You now have a live, tangible project that validates your claim to be a **Data Automation Specialist**! You can include the link to this repo in all your proposals.
+
+**Now that you have your asset, would you like to draft the specialized pitch for the Data Automation Niche?**
+
+```
